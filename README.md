@@ -1,4 +1,4 @@
-# 🗂️ Downloads Organizer for Windows
+# Downloads Organizer for Windows
 
 A simple Python script to automatically organize your Windows Downloads folder into categories such as:
 
@@ -10,7 +10,7 @@ A simple Python script to automatically organize your Windows Downloads folder i
 - 📄 Documents  
 - ❓ Others  
 
-## 📌 Features
+## Features
 
 - Detects your Windows Downloads folder automatically.
 - Categorizes files based on common extensions.
@@ -18,7 +18,7 @@ A simple Python script to automatically organize your Windows Downloads folder i
 - Skips already organized files.
 - Clean, lightweight, and requires no third-party libraries.
 
-## 🚀 How to Use
+## How to Use
 
 1. **Install Python**  
    Ensure Python 3.x is installed. You can download it from: [https://www.python.org/downloads/](https://www.python.org/downloads/)
